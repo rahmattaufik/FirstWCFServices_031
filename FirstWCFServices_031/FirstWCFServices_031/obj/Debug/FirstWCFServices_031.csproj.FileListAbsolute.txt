@@ -1,0 +1,7 @@
+C:\Users\A456U\source\repos\FirstWCFServices_031\FirstWCFServices_031\bin\FirstWCFServices_031.dll.config
+C:\Users\A456U\source\repos\FirstWCFServices_031\FirstWCFServices_031\bin\FirstWCFServices_031.dll
+C:\Users\A456U\source\repos\FirstWCFServices_031\FirstWCFServices_031\bin\FirstWCFServices_031.pdb
+C:\Users\A456U\source\repos\FirstWCFServices_031\FirstWCFServices_031\obj\Debug\FirstWCFServices_031.csprojAssemblyReference.cache
+C:\Users\A456U\source\repos\FirstWCFServices_031\FirstWCFServices_031\obj\Debug\FirstWCFServices_031.csproj.CoreCompileInputs.cache
+C:\Users\A456U\source\repos\FirstWCFServices_031\FirstWCFServices_031\obj\Debug\FirstWCFServices_031.dll
+C:\Users\A456U\source\repos\FirstWCFServices_031\FirstWCFServices_031\obj\Debug\FirstWCFServices_031.pdb
